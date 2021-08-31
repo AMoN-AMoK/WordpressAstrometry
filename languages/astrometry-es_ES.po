@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Astrometry\n"
+"Language: es_ES\n"
+
+msgid "Fieldradius"
+msgstr "Rádio del campo"
+
+msgid "Pixelscale"
+msgstr "Escala del pixel"
+
+msgid "Job"
+msgstr "Trabajo"
+
+msgid "Objects"
+msgstr "Objetos"
+
+msgid "Reload object tags"
+msgstr "Recargar las etiquetas de objeto"
+
+msgid "Could not solve image"
+msgstr "No se pudo resolver la imágen"
+
+msgid "Image solving startet: %1$s"
+msgstr "La resolución de la imágen ha comenzado: %1$s"
+
+msgid "Solving image. Job: %1$s -> %2$s"
+msgstr "Resolviendo la imágen. Trabajo: %1$s -> %2$s"
+
+msgid "Solving image: %1$s Submission: %2$s"
+msgstr "Resolviendo la imágen: %1$s Entrega: %2$s"
+
+msgid "Solving image. Submission: %1$s"
+msgstr "Resolviendo la imágen. Entrega: %1$s"
+
+msgid "Image successfully solved!"
+msgstr "¡Imagen resuelta satisfactoriamente!"
+
+
+
+msgid "Astrometry Settings"
+msgstr "Ajustes Astrometry"
+
+msgid "API-KEY"
+msgstr "API-KEY"
+
+msgid "Get an API Key"
+msgstr "Consigue una API-Key"
+
+msgid "Image Quality"
+msgstr "Calidad de imágen"
+
+msgid "Imagequality 1-100. Overrides the global Wordpress setting (82)."
+msgstr "Calidad de imágen 1-100. Anula los ajustes globales de Wordpress (82)."
+
+msgid "Annotation"
+msgstr "Anotación"
+
+msgid "NGC catalogue color"
+msgstr "Color del catálogo NGC"
+
+msgid "Color for NGC catalogue annotation"
+msgstr "Color de las notas del catálogo NGC"
+
+msgid "IC catalogue color"
+msgstr "Color del catálogo IC"
+
+msgid "Color for IC catalogue annotation"
+msgstr "Color de las notas del catálogo IC"
+
+msgid "Bright stars color"
+msgstr "Color de las estrellas brillantes"
+
+msgid "Color for bright stars (named stars) annotation"
+msgstr "Color de las estrellas brillantes (estrellas con nombre)"
+
+msgid "HD catalogue color"
+msgstr "Color del catáglogo HD"
+
+msgid "Color for HD annotation"
+msgstr "Color de las anotaciones del catáglogo HD"
+
+msgid "Additional CSS"
+msgstr "CSS adicional"
+
+msgid "Additional CSS for SVG annotation styling"
+msgstr "CSS adicional para las anotaciones SVG"
+
+msgid "Additional Catalogues"
+msgstr "Catalogos adicionales"
+
+msgid "Objects of NGC, IC are shown as objects of additional cataglogues (Messier)"
+msgstr "Objetos en catálogos NGC y IC serán mostrados como objetos de catálogos adicionales (Messier)"
+
+msgid "Messier catalogue color"
+msgstr "Color del catalogo Messier"
+
+msgid "Color for Messier annotation"
+msgstr "Color de las notas del catalogo Messier"
+
+msgid "Celestial coordinate grid"
+msgstr "Rejilla de coordenadas"
+
+msgid "Show celestial coordinate grid"
+msgstr "Mostrar rejilla de coordenadas"
+
+msgid "Celestial coordinate grid color"
+msgstr "Color de la rejilla de coordenadas"
+
+msgid "Color for celestial coordinate grid"
+msgstr "Color para la rejilla de coordenadas"
